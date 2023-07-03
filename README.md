@@ -1,0 +1,2 @@
+# Meetings-Calendar
+  Make scheduling meetings faster and more practical.  Problem: I have a tech-project team with 3 other members. As we live in different cities, our meetings are always online, and we always lose too much time and spend too much energy scheduling it.  To solve this unproductive task, this project aims to facilitate the convergence of schedules between members of a team, to make scheduling meetings faster and more practical.
