@@ -20,17 +20,17 @@ Upon running the script, the program will display the meeting schedule for each 
 
 The meeting times are printed in the following format:  
 
-&ensp;[Day of the Week] Meeting Time  
-&ensp;Front-end: [Front-End Meeting Time]  
-&ensp;Back-end: [Back-End Meeting Time]  
-&ensp;SENA: [SENA Meeting Time]  
+&emsp;[Day of the Week] Meeting Time  
+&emsp;Front-end: [Front-End Meeting Time]  
+&emsp;Back-end: [Back-End Meeting Time]  
+&emsp;SENA: [SENA Meeting Time]  
   
 For example:  
   
-&ensp;MONDAY Meeting Time  
-&ensp;Front-end: 09:00  
-&ensp;Back-end: 10:30  
-&ensp;SENA: 11:45  
+&emsp;MONDAY Meeting Time  
+&emsp;Front-end: 09:00  
+&emsp;Back-end: 10:30  
+&emsp;SENA: 11:45  
   
 The program also specifies the duration of each meeting, which is set to 30 minutes.  
   
