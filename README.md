@@ -25,7 +25,7 @@ The meeting times are printed in the following format:
 &emsp;Back-end: [Back-End Meeting Time]  
 &emsp;SENA: [SENA Meeting Time]  
   
-For example:  
+For example:   
   
 &emsp;MONDAY Meeting Time  
 &emsp;Front-end: 09:00  
