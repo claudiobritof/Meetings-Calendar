@@ -7,7 +7,7 @@ Make scheduling meetings faster and more practical.
 
 <b>Prerequisites:  </b>  
   
-To run this project, you just need to have Python installed on your system. The code is compatible with Python 3.  
+To run this project, you just need to have Python installed on your system. The code is compatible with Python 3.   
 
 <b>Setup:  </b>  
 1. Clone the project repository or copy the code into a Python file.
